@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 # 💫 About Me:
 
-🌱 I’m currently learning Golang | Redis internals | Full-stack web development with AI integrations<br><br>👯 I’m looking to collaborate on Open-source backend projects | Hackathons | AI-Integrated Web Apps<br><br>🤝 I’m looking for help with Distributed systems design | Redis internals | Advanced Go concurrency<br><br>💬 Ask me about Data Structures & Algorithms (DSA) | Cloud deployment | Hackathons & ideation<br><br>📫 How to reach me nawathearyan@gmail.com
+🌱 I’m currently learning Golang | Redis internals | Full-stack web development with AI integrations<br><br>👯 I’m looking to collaborate on Open-source backend projects | Hackathons | AI-Integrated Web Apps<br><br>🤝 I’m looking for help with Distributed systems design | Redis internals | Advanced Go concurrency<br><br>💬 Ask me about Data Structures & Algorithms (DSA) | Cloud deployment | Hackathons & ideation<br><br>📫 How to reach me nawathearyan009@gmail.com
 
 
 # 💻 Tech Stack:
