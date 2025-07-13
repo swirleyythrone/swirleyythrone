@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hey there! 👋</h1>
+
 
 ###
 
@@ -83,5 +83,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=swirleyythrone&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swirleyythrone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
